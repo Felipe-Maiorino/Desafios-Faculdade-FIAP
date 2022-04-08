@@ -1,3 +1,4 @@
+# Sua tarefa é criar um algoritmo que receba o tipo de assinatura do cliente, o faturamento anual dele e que calcule e exiba qual o valor do bônus que o cliente deve pagar a vocês. A tabela abaixo mostra a porcentagem de acordo com cada nível de assinatura:
 
 FaturamentoAnual = float(input("Insira seu FATURAMENTO ANUAL: R$"))
 
